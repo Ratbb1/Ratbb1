@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ratibor</h1>
-<h3 align="center">🔹 Cybersecurity Specialist & Programmer | SysAdmin | Web Pentesting | Python Automation 🚀 Passionate about cybersecurity, system administration, and network security. 🛠 I automate tasks using Python to improve efficiency. 🌐 Interested in web pentesting and improving IT infrastructure.</h3>
+<h3 align="center">🔹 Cybersecurity Specialist & Programmer | Python Automation 🚀 Passionate about cybersecurity, system administration, and network security. 🛠 I automate tasks using Python to improve efficiency. 🌐 Interested in web pentesting and improving IT infrastructure.</h3>
 
 - ⚡ Fun fact **Tried to hack my neighbor’s Wi-Fi at 13))**
 - ✉️ Contact me: You can write to me in telegram - **@Ratbb4**
